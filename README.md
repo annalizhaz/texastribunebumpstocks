@@ -3,9 +3,7 @@ Texas Tribune Bump Stocks
 
  
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-![Screenshot](/blob/master/screenshot.png?raw=true)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+![](https://raw.githubusercontent.com/annalizhaz2/texastribunebumpstocks/master/screenshot.png)
 
 The interactive is best viewed on Google Chrome currently; portraits will not
 appear on Firefox or Safari currently.
