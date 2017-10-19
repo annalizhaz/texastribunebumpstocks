@@ -3,8 +3,6 @@ Texas Tribune Bump Stocks
 
  
 
-![](https://raw.githubusercontent.com/annalizhaz2/texastribunebumpstocks/master/screenshot.png)
-
 The interactive is best viewed on Google Chrome currently; portraits will not
 appear on Firefox or Safari currently.
 
@@ -105,3 +103,5 @@ Additionally, although the API has the capacity to include people participating
 in events in the “tags,” it seems that usually they are not tagged. Thus, only
 one official had an associated event in the interactive although there were
 other events with officials that just weren’t tagged.
+
+![](https://raw.githubusercontent.com/annalizhaz2/texastribunebumpstocks/master/screenshot.png)
