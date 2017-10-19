@@ -35,6 +35,11 @@ Safari:
 
  
 
+This setting can mess up your experience on other websites, so be sure to turn
+it off when you are done.
+
+ 
+
 Viewing online
 --------------
 
@@ -80,6 +85,7 @@ Demo
 
 In case of issues, and to demonstrate a few features you may not stumble upon, I
 have made a video demonstrating what the interactive should look like here:
+<https://youtu.be/eGd2nTdKQh4>
 
  
 
