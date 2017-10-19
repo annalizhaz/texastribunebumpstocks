@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<head>
+  <title>Bump Stock Ban: Texas Legislators</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Possible Bump Stock Ban:</h1>
+  <h2>How Texas legislators responded</h2>
+  <div class="all_content">
+    <div id="position-swarm" class="info-box">
+      <svg width="800" height="500"></svg>
+    </div>
+    <div id="official-info" class="info-box">
+      <div id="intro">
+        <h3>Explore responses</h3>
+        <p>Click circles to view individual statements and find out more</p>
+      </div>
+      <div id="person-info" style="visibility: hidden;">
+        <h3 id="official-name">Ham Sandwich</h3>
+        <button id="contact">Contact</button><button id="twitter" style="margin: 0 10px;">Twitter</button><button id="facebook">Facebook</button>
+        <h5 id="party">Temperance</h5>
+        <div class="info-subbox">
+          <h4>Statement</h4>
+          <p id="statement" id="statement-box">blah blah</p>
+        </div>
+        <div class="info-subbox" id="event-box"></div>
+        <div class="info-subbox" id="bio-box"></div>
+      </div>
+    </div>
+  </div>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script type="text/javascript">
+
+    // Resize info box when it would be stacked under chart due to window size change
+
+    var onresize = function() {
+      width = document.body.clientWidth;
+      if (width < 1170) {
+        d3.select("#official-info")
+          .style("width", "600px")
+      } else {
+        d3.select("#official-info")
+          .style("width", "300px")
+      }
+    }
+    window.onload = onresize;
+    window.addEventListener("resize", onresize);
+
+  </script>
+  <script src="chart.js"></script>
+</body>
