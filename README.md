@@ -96,12 +96,13 @@ I tried to find historical NRA grades for elected officials, and although I
 found it in two places neither was free. However, I think having these grades
 would provide important context for the interactive, as it would be easier to
 tell who was really changing their position and who might be more persuadable if
-they decided to contact one of the officials shown. The chart could have then
-been sorted vertically with these grades.
+a reader decided to contact one of the officials shown. The chart could have
+then been sorted vertically with these grades.
 
 Additionally, although the API has the capacity to include people participating
 in events in the “tags,” it seems that usually they are not tagged. Thus, only
 one official had an associated event in the interactive although there were
-other events with officials that just weren’t tagged.
+other events with officials that just weren’t tagged. I think more tagging of
+individuals in the events data would improve this interactive.
 
 ![](https://raw.githubusercontent.com/annalizhaz2/texastribunebumpstocks/master/screenshot.png)
